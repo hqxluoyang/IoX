@@ -33,6 +33,7 @@
     <DocumentationFile>bin\Release\IoX.Server.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+  《dddd》
     <Reference Include="evReact">
       <HintPath>..\packages\evReact.0.9.2\lib\net40\evReact.dll</HintPath>
     </Reference>
